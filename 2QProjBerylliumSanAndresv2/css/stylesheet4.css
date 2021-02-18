@@ -148,6 +148,11 @@ padding-top: 20px;
 font-family: system-ui;
 }
 
+::selection {
+background-color: black;
+color: white;
+}
+
 
 
 
