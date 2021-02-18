@@ -97,5 +97,10 @@
 	font-family: system-ui;
 	}
 
+::selection {
+background-color: black;
+color: white;
+}
+
 
 
