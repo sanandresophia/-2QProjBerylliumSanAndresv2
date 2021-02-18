@@ -124,3 +124,8 @@
   	animation-iteration-count: infinite;
 	position: relative;
 	}
+
+	::selection {
+	background-color: black;
+	color: white;
+	}
